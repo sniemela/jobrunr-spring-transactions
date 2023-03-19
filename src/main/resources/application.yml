@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    open-in-view: false
+
+org:
+  jobrunr:
+    background-job-server:
+      enabled: true
+    dashboard:
+      enabled: true
